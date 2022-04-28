@@ -1,0 +1,25 @@
+#itemListView ul{
+    list-style: none;
+    box-shadow: 4px 2px 8px;
+    background-color: lightblue;
+    color: rgb(12, 21, 29);
+    margin: 5px;
+}
+
+#itemListView ul li {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(53, 53, 218);
+    margin-bottom: 5px;
+    width: 200px;
+}
+#itemListView ul li span {
+display: block;
+}
+
+span.title {
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase
+    ;
+}
